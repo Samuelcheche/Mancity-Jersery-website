@@ -1,6 +1,6 @@
 # Mancity Jersery website
 ## [Watch it on youtube](https://youtu.be/QPxYdbbCjhQ)
-### Responsive Watches Website ⌚
+### Mancity Jersery Website
 
 - Responsive Watches Website Using HTML CSS & JavaScript
 - Smooth scrolling in each section.

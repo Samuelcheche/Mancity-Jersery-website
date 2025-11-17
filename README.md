@@ -2,7 +2,7 @@
 ## [Watch it on youtube](https://youtu.be/QPxYdbbCjhQ)
 ### Mancity Jersery Website
 
-- Responsive Watches Website Using HTML CSS & JavaScript
+- Mancity Jersery Website Using HTML CSS & JavaScript
 - Smooth scrolling in each section.
 - Includes a dark and light mode.
 - Developed first with the Mobile First methodology, then for desktop.
